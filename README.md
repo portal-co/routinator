@@ -1,13 +1,13 @@
 # @portal-solutions/routinator
 
 ## Description
-Project routinator
+A TypeScript project (`routinator`), likely a routing utility or library.
 
 ## Goals
-- [ ] Add project goals
+- [ ] TBD
 
 ## Progress
-- [ ] Initial setup
+- [ ] Workspace setup
 
 ---
 *AI assisted*
